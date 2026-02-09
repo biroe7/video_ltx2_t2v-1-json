@@ -1,0 +1,28 @@
+{
+  "input": {
+    "workflow": {
+      "75": {
+        "inputs": {
+          "filename": "video/LTX-2",
+          "video": [
+            "92",
+            0
+          ]
+        },
+        "class_type": "SaveVideo",
+        "_meta": {
+          "title": "SaveVideo"
+        }
+      },
+      "92": {
+        "inputs": {
+          "filename": "A close-up of a cheerful girl puppet with curly auburn yarn hair and wide button eyes, holding a small red umbrella above her head. Rain falls gently around her. She looks upward and begins to sing with joy in English: \"It's raining, it's raining, I love it when its raining.\" Her fabric mouth opening and closing to a melodic tune. Her hands grip the umbrella handle as she sways slightly from side to side in rhythm. The camera holds steady as the rain sparkles against the soft lighting. Her eyes blink occasionally as she sings."
+        },
+        "class_type": "b7c2d337-c38d-4c04-922b-2d638449d13e",
+        "_meta": {
+          "title": "b7c2d337-c38d-4c04-922b-2d638449d13e"
+        }
+      }
+    }
+  }
+}
