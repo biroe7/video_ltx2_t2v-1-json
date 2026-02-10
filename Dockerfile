@@ -1,5 +1,5 @@
 # Base oficial do RunPod para ComfyUI
-FROM runpod/worker-comfyui:5.5.1-base
+FROM runpod/worker-comfyui:5.7.1-base
 
 # 1. Instalar Custom Nodes (LTX-2 exige o wrapper)
 RUN comfy node install comfyui-ltx2-wrapper || true
